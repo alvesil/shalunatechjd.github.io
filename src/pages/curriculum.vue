@@ -99,7 +99,7 @@ export default {
 					{
 						name: 'Limpeza Interna + Formatação',
 						desc: 'São os dois serviços acima mencionados.',
-						val: 'Valor Sugerido : R$ 80,00'
+						val: 'Valor Sugerido : R$ 50,00'
 					},
 					{
 						name: 'Troca de Componentes Internos Danificados',
@@ -124,7 +124,7 @@ export default {
 					{
 						name: 'Limpeza Interna + Formatação',
 						desc: 'São os dois serviços acima mencionados.',
-						val: 'Valor Sugerido : R$ 80,00'
+						val: 'Valor Sugerido : R$ 50,00'
 					},
 					{
 						name: 'Troca de Componentes Internos Danificados',
